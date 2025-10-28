@@ -12,8 +12,8 @@
 - [Lab 3 — Структуры и перечисления](https://github.com/HuFuMP-cppLabs/lab3)
 - [Lab 4 — Функции](https://github.com/HuFuMP-cppLabs/lab4)
 - [Lab 5 —  Массивы и строки](https://github.com/HuFuMP-cppLabs/lab5)
-- [Lab 6 — ](https://github.com/HuFuMP-cppLabs/lab6)
-- [Lab 7 — ](https://github.com/HuFuMP-cppLabs/lab7)
+- [Lab 6 — Объекты и классы](https://github.com/HuFuMP-cppLabs/lab6)
+- [Lab 7 — Указатели](https://github.com/HuFuMP-cppLabs/lab7)
 
 ---
 
